@@ -11,3 +11,6 @@ Website ini dibangun untuk mendokumentasikan, melestarikan, dan mengenalkan info
 * Halaman Informasi Adat Istiadat & Alam Lingkungan
 * Fitur Cerita Rakyat & Galeri Foto Budaya
 * Halaman Admin (Dashboard) untuk Manajemen Konten Website
+  
+## 📸 Tampilan Visual Website
+![Tampilan Utama Website](Screenshot%202026-10-10%20163447.png)
